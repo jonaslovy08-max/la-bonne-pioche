@@ -50,7 +50,7 @@ export default function ContactPage() {
 
         <section className="lbp-contact-grid">
           <article className="lbp-content-card">
-            <h2 className="lbp-brush">Adresse</h2>
+            <h2 className="lbp-brush">Coordonnées</h2>
             <address>
               Rue du 23 Juin 28
               <br />
@@ -58,6 +58,9 @@ export default function ContactPage() {
               <br />
               Suisse
             </address>
+            <a className="lbp-contact-email" href="mailto:contact@labonnepioche.ch">
+              contact@labonnepioche.ch
+            </a>
           </article>
 
           <article className="lbp-content-card">
