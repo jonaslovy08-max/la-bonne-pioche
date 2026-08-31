@@ -149,25 +149,22 @@ export function HomePage() {
 
   useEffect(() => {
     const interval = window.setInterval(() => {
-      setHeroState((current) => ({
-        image: 0,
-        slide: (current.slide + 1) % heroSlides.length,
-      }))
-    }, 9000)
+      setHeroState((current) => {
+        const lastImage = heroSlides[current.slide].images.length - 1
+
+        if (current.image < lastImage) {
+          return { ...current, image: current.image + 1 }
+        }
+
+        return {
+          image: 0,
+          slide: (current.slide + 1) % heroSlides.length,
+        }
+      })
+    }, 2600)
 
     return () => window.clearInterval(interval)
-  }, [activeHeroSlide])
-
-  useEffect(() => {
-    const interval = window.setInterval(() => {
-      setHeroState((current) => ({
-        ...current,
-        image: (current.image + 1) % heroSlide.images.length,
-      }))
-    }, 2100)
-
-    return () => window.clearInterval(interval)
-  }, [activeHeroSlide, heroSlide.images.length])
+  }, [])
 
   const moveProducts = (direction: number) => {
     productTrack.current?.scrollBy({
@@ -212,7 +209,6 @@ export function HomePage() {
           aria-live="polite"
           className="lbp-hero"
           id="boutique"
-          key={heroSlide.id}
           onPointerCancel={() => { heroSwipeStart.current = null }}
           onPointerDown={handleHeroPointerDown}
           onPointerUp={handleHeroPointerUp}
@@ -222,24 +218,28 @@ export function HomePage() {
             className="lbp-hero-visual"
             role="img"
           >
-            {heroSlide.images.map((heroImage, imageIndex) => (
-              <Image
-                alt=""
-                aria-hidden="true"
-                className={`lbp-hero-image ${heroSlide.imageClass} ${
-                  imageIndex === activeHeroImage ? 'is-active' : ''
-                }`}
-                height={heroImage.height}
-                key={heroImage.src}
-                loading={imageIndex === 0 ? 'eager' : undefined}
-                priority={activeHeroSlide === 0 && imageIndex === 0}
-                src={heroImage.src}
-                width={heroImage.width}
-              />
-            ))}
+            {heroSlides.flatMap((slide, slideIndex) =>
+              slide.images.map((heroImage, imageIndex) => (
+                <Image
+                  alt=""
+                  aria-hidden="true"
+                  className={`lbp-hero-image ${slide.imageClass} ${
+                    slideIndex === activeHeroSlide && imageIndex === activeHeroImage
+                      ? 'is-active'
+                      : ''
+                  }`}
+                  height={heroImage.height}
+                  key={heroImage.src}
+                  loading={imageIndex === 0 ? 'eager' : undefined}
+                  priority={slideIndex === 0 && imageIndex === 0}
+                  src={heroImage.src}
+                  width={heroImage.width}
+                />
+              )),
+            )}
           </div>
 
-          <div className="lbp-hero-title-wrap">
+          <div className="lbp-hero-title-wrap" key={`title-${heroSlide.id}`}>
             {activeHeroSlide === 0 ? (
               <h1 className="lbp-brush lbp-hero-title">
                 Objets
@@ -276,7 +276,7 @@ export function HomePage() {
             )}
           </div>
 
-          <div className="lbp-hero-actions">
+          <div className="lbp-hero-actions" key={`actions-${heroSlide.id}`}>
             <Link className="lbp-button lbp-button-light" href={heroSlide.primaryAction.href}>
               {heroSlide.primaryAction.label}
             </Link>
