@@ -69,8 +69,23 @@ export default function TermsPage() {
         },
         {
           title: '9. Provenance et authenticité',
-          content:
-            'En nous vendant ou en nous confiant un objet, vous confirmez qu’il vous appartient ou que vous êtes autorisé à en disposer. Merci de nous signaler tout ce que vous savez sur son origine, son état, ses transformations et son authenticité. En cas de doute sur un objet volé, contrefait, dangereux ou réglementé, nous pouvons suspendre ou refuser l’opération.',
+          content: (
+            <>
+              <p>
+                En nous vendant ou en nous confiant un objet, vous confirmez qu’il vous appartient,
+                que vous êtes majeur ou valablement représenté et que vous êtes autorisé à en
+                disposer. Merci de nous signaler tout ce que vous savez sur son origine, son état,
+                ses transformations et son authenticité.
+              </p>
+              <p>
+                Nous pouvons demander la présentation d’un document d’identité original et établir
+                un bordereau reliant le vendeur, le paiement et les objets remis. En cas de doute sur
+                un objet volé, contrefait, dangereux ou réglementé, nous pouvons suspendre ou refuser
+                l’opération et, lorsque la loi l’exige, transmettre les informations utiles à
+                l’autorité compétente.
+              </p>
+            </>
+          ),
         },
         {
           title: '10. Réparations',
@@ -125,7 +140,7 @@ export default function TermsPage() {
         {
           title: '17. Version actuelle',
           content:
-            'La version qui s’applique est celle mise à votre disposition au moment de l’accord. Nous pouvons modifier ces conditions pour les contrats futurs. Version du 28 août 2026.',
+            'La version qui s’applique est celle mise à votre disposition au moment de l’accord. Nous pouvons modifier ces conditions pour les contrats futurs. Version du 31 août 2026.',
         },
       ]}
       title="Conditions générales"
