@@ -1,0 +1,6100 @@
+[
+  {
+    "id": "apple",
+    "prefix": "/services/reparation-iphone",
+    "models": [
+      {
+        "model": "iPhone 17",
+        "path": "/services/reparation-iphone/iphone-17",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 349"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 169"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 219"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 17 Pro",
+        "path": "/services/reparation-iphone/iphone-17-pro",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 389"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 169"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 219"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 17 Pro Max",
+        "path": "/services/reparation-iphone/iphone-17-pro-max",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 389"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 169"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 219"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 17 Air",
+        "path": "/services/reparation-iphone/iphone-17-air",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 349"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 169"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 219"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 17e",
+        "path": "/services/reparation-iphone/iphone-17e",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 349"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 169"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 219"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 16",
+        "path": "/services/reparation-iphone/iphone-16",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 249"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 159"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 159"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 279"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 16 Plus",
+        "path": "/services/reparation-iphone/iphone-16-plus",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 249"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 159"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 159"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 279"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 16 Pro",
+        "path": "/services/reparation-iphone/iphone-16-pro",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 289"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 159"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 159"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 279"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 16 Pro Max",
+        "path": "/services/reparation-iphone/iphone-16-pro-max",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 289"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 159"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 159"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 279"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 15",
+        "path": "/services/reparation-iphone/iphone-15",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 229"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 259"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 15 Plus",
+        "path": "/services/reparation-iphone/iphone-15-plus",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 259"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 259"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 15 Pro",
+        "path": "/services/reparation-iphone/iphone-15-pro",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 279"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 259"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 15 Pro Max",
+        "path": "/services/reparation-iphone/iphone-15-pro-max",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 289"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 259"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 14",
+        "path": "/services/reparation-iphone/iphone-14",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 219"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 239"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 14 Plus",
+        "path": "/services/reparation-iphone/iphone-14-plus",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 219"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 249"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 14 Pro",
+        "path": "/services/reparation-iphone/iphone-14-pro",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 259"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 239"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 14 Pro Max",
+        "path": "/services/reparation-iphone/iphone-14-pro-max",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 259"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 239"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 13",
+        "path": "/services/reparation-iphone/iphone-13",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 249"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 299"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 13 Pro",
+        "path": "/services/reparation-iphone/iphone-13-pro",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 299"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 299"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 13 Pro Max",
+        "path": "/services/reparation-iphone/iphone-13-pro-max",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 299"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 299"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 13 Mini",
+        "path": "/services/reparation-iphone/iphone-13-mini",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 199"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 279"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 12",
+        "path": "/services/reparation-iphone/iphone-12",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 199"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 279"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 12 Pro",
+        "path": "/services/reparation-iphone/iphone-12-pro",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 219"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 299"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 12 Pro Max",
+        "path": "/services/reparation-iphone/iphone-12-pro-max",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 219"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 299"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 12 Mini",
+        "path": "/services/reparation-iphone/iphone-12-mini",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 199"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 269"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 11",
+        "path": "/services/reparation-iphone/iphone-11",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 139"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 199"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 11 Pro",
+        "path": "/services/reparation-iphone/iphone-11-pro",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 149"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 199"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 11 Pro Max",
+        "path": "/services/reparation-iphone/iphone-11-pro-max",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 159"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 199"
+          }
+        ]
+      },
+      {
+        "model": "iPhone XR",
+        "path": "/services/reparation-iphone/iphone-xr",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 199"
+          }
+        ]
+      },
+      {
+        "model": "iPhone XS",
+        "path": "/services/reparation-iphone/iphone-xs",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 199"
+          }
+        ]
+      },
+      {
+        "model": "iPhone XS Max",
+        "path": "/services/reparation-iphone/iphone-xs-max",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 159"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 199"
+          }
+        ]
+      },
+      {
+        "model": "iPhone X",
+        "path": "/services/reparation-iphone/iphone-x",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 249"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 8",
+        "path": "/services/reparation-iphone/iphone-8",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 109"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 75"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 149"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 8 Plus",
+        "path": "/services/reparation-iphone/iphone-8-plus",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 75"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Vitre arrière / Châssis",
+            "price": "CHF 149"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 7",
+        "path": "/services/reparation-iphone/iphone-7",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 69"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 7 Plus",
+        "path": "/services/reparation-iphone/iphone-7-plus",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 99"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 69"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 6s",
+        "path": "/services/reparation-iphone/iphone-6s",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 69"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 6s Plus",
+        "path": "/services/reparation-iphone/iphone-6s-plus",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 69"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 6",
+        "path": "/services/reparation-iphone/iphone-6",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 69"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 6 Plus",
+        "path": "/services/reparation-iphone/iphone-6-plus",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 69"
+          }
+        ]
+      },
+      {
+        "model": "iPhone SE 3e génération",
+        "path": "/services/reparation-iphone/iphone-se-3",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 129"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 85"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 69"
+          }
+        ]
+      },
+      {
+        "model": "iPhone SE 2e génération",
+        "path": "/services/reparation-iphone/iphone-se-2",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 119"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 89"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 69"
+          }
+        ]
+      },
+      {
+        "model": "iPhone SE 1re génération",
+        "path": "/services/reparation-iphone/iphone-se-1",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 49"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 49"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 5",
+        "path": "/services/reparation-iphone/iphone-5",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 49"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 49"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 5c",
+        "path": "/services/reparation-iphone/iphone-5c",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 49"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 49"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 5s",
+        "path": "/services/reparation-iphone/iphone-5s",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 49"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 49"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 4",
+        "path": "/services/reparation-iphone/iphone-4",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 49"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 49"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 49"
+          }
+        ]
+      },
+      {
+        "model": "iPhone 4s",
+        "path": "/services/reparation-iphone/iphone-4s",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Batterie",
+            "price": "CHF 49"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "CHF 79"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "CHF 49"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "CHF 59"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "CHF 69"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "CHF 49"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "samsung",
+    "prefix": "/services/reparation-samsung-lausanne",
+    "models": [
+      {
+        "model": "Galaxy S26 Ultra",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s26-ultra",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Batterie",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Face arrière",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S26+",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s26-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Batterie",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Face arrière",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S26",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s26",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Batterie",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Face arrière",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S25 Ultra",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s25-ultra",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "289 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S25+",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s25-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "259 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S25",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s25",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "199 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S24 Ultra",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s24-ultra",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "249 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S24+",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s24-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "229 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S24 FE",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s24-fe",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "199 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S24",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s24",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "199 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S23 Ultra",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s23-ultra",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "249 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S23+",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s23-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "229 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S23 FE",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s23-fe",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "199 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S23",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s23",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "199 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S22 Ultra",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s22-ultra",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "249 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S22+",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s22-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "229 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S22 FE",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s22-fe",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "199 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S22",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s22",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "199 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "89 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S21 Ultra",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s21-ultra",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "369 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "129 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S21+",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s21-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "279 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "129 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S21 FE",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s21-fe",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "239 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "129 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S21",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s21",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "269 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "129 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S20 Ultra",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s20-ultra",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "299 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S20+",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s20-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "299 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S20 FE",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s20-fe",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "229 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S20",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s20",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "279 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S10+",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s10-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "299 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S10",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s10",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "249 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S10e",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s10e",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "199 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S10 Lite",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s10-lite",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "189 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "85 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S9+",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s9-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "199 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S9",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s9",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "189 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S8 Plus",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s8-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "199 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S8",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s8",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "189 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S7 Edge",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s7-edge",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "179 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S7",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s7",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S6 Edge+",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s6-edge-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S6 Edge",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s6-edge",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S6",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s6",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S5 Neo",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s5-neo",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "39 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "59 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "59 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S5",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s5",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "39 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "59 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "59 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S5 Mini",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s5-mini",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "39 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "59 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "59 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S4",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s4",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "59 CHF"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "45 CHF"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "45 CHF"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "45 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy S4 Mini",
+        "path": "/services/reparation-samsung-lausanne/galaxy-s4-mini",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "49 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "59 CHF"
+          },
+          {
+            "label": "Bouton Home",
+            "price": "45 CHF"
+          },
+          {
+            "label": "Bouton Power",
+            "price": "45 CHF"
+          },
+          {
+            "label": "Bouton Volume",
+            "price": "45 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Note 20 Ultra 5G",
+        "path": "/services/reparation-samsung-lausanne/galaxy-note-20-ultra",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Batterie",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Face arrière",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "Note 20 5G",
+        "path": "/services/reparation-samsung-lausanne/galaxy-note-20-5g",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "339 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "129 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Note 10+",
+        "path": "/services/reparation-samsung-lausanne/galaxy-note-10-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "319 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Note 10",
+        "path": "/services/reparation-samsung-lausanne/galaxy-note-10",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "269 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Note 9",
+        "path": "/services/reparation-samsung-lausanne/galaxy-note-9",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "269 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Note 8",
+        "path": "/services/reparation-samsung-lausanne/galaxy-note-8",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "249 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A90",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a90",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A80",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a80",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A72",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a72",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "169 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A71",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a71",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A70",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a70",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A60",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a60",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A52",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a52",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "169 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A51",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a51",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "169 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A50",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a50",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A42",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a42",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A41",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a41",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A40",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a40",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "139 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A32",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a32",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A31",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a31",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "149 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A30",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a30",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "149 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A22",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a22",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "129 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A21",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a21",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "129 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A20",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a20",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "129 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A12",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a12",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "119 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A11",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a11",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "119 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A10",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a10",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "119 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A9",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a9",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "149 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A8",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a8",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "149 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A7",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a7",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "149 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A6",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a6",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "139 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A5",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a5",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "129 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy A3",
+        "path": "/services/reparation-samsung-lausanne/galaxy-a3",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "129 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy J8",
+        "path": "/services/reparation-samsung-lausanne/galaxy-j8",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "119 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy J7",
+        "path": "/services/reparation-samsung-lausanne/galaxy-j7",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy J6",
+        "path": "/services/reparation-samsung-lausanne/galaxy-j6",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy J5",
+        "path": "/services/reparation-samsung-lausanne/galaxy-j5",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy J4",
+        "path": "/services/reparation-samsung-lausanne/galaxy-j4",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy J3",
+        "path": "/services/reparation-samsung-lausanne/galaxy-j3",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Galaxy J2",
+        "path": "/services/reparation-samsung-lausanne/galaxy-j2",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "huawei",
+    "prefix": "/services/reparation-huawei-lausanne",
+    "models": [
+      {
+        "model": "P30 Lite",
+        "path": "/services/reparation-huawei-lausanne/huawei-p30-lite",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "139 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P30",
+        "path": "/services/reparation-huawei-lausanne/huawei-p30",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "249 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P30 Pro",
+        "path": "/services/reparation-huawei-lausanne/huawei-p30-pro",
+        "prices": [
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P20 Pro",
+        "path": "/services/reparation-huawei-lausanne/huawei-p20-pro",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "279 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P20",
+        "path": "/services/reparation-huawei-lausanne/huawei-p20",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "149 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P20 Lite",
+        "path": "/services/reparation-huawei-lausanne/huawei-p20-lite",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P10 Pro",
+        "path": "/services/reparation-huawei-lausanne/huawei-p10-pro",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "179 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P10",
+        "path": "/services/reparation-huawei-lausanne/huawei-p10",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "139 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P10 Plus",
+        "path": "/services/reparation-huawei-lausanne/huawei-p10-plus",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "139 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P10 Lite",
+        "path": "/services/reparation-huawei-lausanne/huawei-p10-lite",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P9",
+        "path": "/services/reparation-huawei-lausanne/huawei-p9",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P9 Lite",
+        "path": "/services/reparation-huawei-lausanne/huawei-p9-lite",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P8",
+        "path": "/services/reparation-huawei-lausanne/huawei-p8",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "P7",
+        "path": "/services/reparation-huawei-lausanne/huawei-p7",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Mate 20 Lite",
+        "path": "/services/reparation-huawei-lausanne/huawei-mate-20-lite",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "139 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Mate 20",
+        "path": "/services/reparation-huawei-lausanne/huawei-mate-20",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "159 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Mate 20 Pro",
+        "path": "/services/reparation-huawei-lausanne/huawei-mate-20-pro",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "299 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Mate 10 Pro",
+        "path": "/services/reparation-huawei-lausanne/huawei-mate-10-pro",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "189 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Mate 10",
+        "path": "/services/reparation-huawei-lausanne/huawei-mate-10",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "149 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Mate 10 Lite",
+        "path": "/services/reparation-huawei-lausanne/huawei-mate-10-lite",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "129 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Mate 9",
+        "path": "/services/reparation-huawei-lausanne/huawei-mate-9",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Mate 8",
+        "path": "/services/reparation-huawei-lausanne/huawei-mate-8",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Honor 20",
+        "path": "/services/reparation-huawei-lausanne/honor-20",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "149 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Honor 10",
+        "path": "/services/reparation-huawei-lausanne/honor-10",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "139 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Honor 9",
+        "path": "/services/reparation-huawei-lausanne/honor-9",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "119 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Honor 8",
+        "path": "/services/reparation-huawei-lausanne/honor-8",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "119 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Honor 8 Lite",
+        "path": "/services/reparation-huawei-lausanne/honor-8-lite",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      },
+      {
+        "model": "Honor 7",
+        "path": "/services/reparation-huawei-lausanne/honor-7",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "79 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "79 CHF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oppo",
+    "prefix": "/services/reparation-oppo",
+    "models": [
+      {
+        "model": "OPPO Find X3 Pro",
+        "path": "/services/reparation-oppo/oppo-find-x3-pro",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "249 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "OPPO Find X3 Neo",
+        "path": "/services/reparation-oppo/oppo-find-x3-neo",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "219 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "OPPO Find X3 Lite",
+        "path": "/services/reparation-oppo/oppo-find-x3-lite",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "189 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "OPPO Find X2 Pro",
+        "path": "/services/reparation-oppo/oppo-find-x2-pro",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "249 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "OPPO Find X2 Neo",
+        "path": "/services/reparation-oppo/oppo-find-x2-neo",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "219 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "OPPO Find X2 Lite",
+        "path": "/services/reparation-oppo/oppo-find-x2-lite",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "189 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "OPPO Reno4 Pro",
+        "path": "/services/reparation-oppo/oppo-reno4-pro",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "199 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Face arrière",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Caméra principale",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Caméra frontale",
+            "price": "89 CHF"
+          },
+          {
+            "label": "Lentille caméra",
+            "price": "69 CHF"
+          },
+          {
+            "label": "Connecteur de charge ou NFC",
+            "price": "99 CHF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ipad",
+    "prefix": "/services/reparation-ipad",
+    "models": [
+      {
+        "model": "iPad 1 / 2 / 3 / 4",
+        "path": "/services/reparation-ipad/ipad-1-2-3-4",
+        "prices": [
+          {
+            "label": "Écran & vitre iPad",
+            "price": "149 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Vitre iPad",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Boutons Home / Volume / Power",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Connecteur de charge",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "iPad 9.7″ 6ème Gén. (2017-2018)",
+        "path": "/services/reparation-ipad/ipad-9-7-6gen",
+        "prices": [
+          {
+            "label": "Vitre",
+            "price": "149 CHF"
+          }
+        ]
+      },
+      {
+        "model": "iPad 9.7″ 7ème Gén. (2019)",
+        "path": "/services/reparation-ipad/ipad-9-7-7gen",
+        "prices": [
+          {
+            "label": "Vitre",
+            "price": "169 CHF"
+          }
+        ]
+      },
+      {
+        "model": "iPad Air 1",
+        "path": "/services/reparation-ipad/ipad-air-1",
+        "prices": [
+          {
+            "label": "Vitre",
+            "price": "129 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "119 CHF"
+          },
+          {
+            "label": "Boutons Home / Volume / Power",
+            "price": "109 CHF"
+          }
+        ]
+      },
+      {
+        "model": "iPad Air 2",
+        "path": "/services/reparation-ipad/ipad-air-2",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "199 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "139 CHF"
+          }
+        ]
+      },
+      {
+        "model": "iPad Mini 1 / 2 / 3",
+        "path": "/services/reparation-ipad/ipad-mini-1-2-3",
+        "prices": [
+          {
+            "label": "Vitre",
+            "price": "99 CHF"
+          },
+          {
+            "label": "Batterie iPad Mini",
+            "price": "109 CHF"
+          },
+          {
+            "label": "Boutons Home / Volume / Power",
+            "price": "99 CHF"
+          }
+        ]
+      },
+      {
+        "model": "iPad Mini 4",
+        "path": "/services/reparation-ipad/ipad-mini-4",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "169 CHF"
+          }
+        ]
+      },
+      {
+        "model": "iPad Mini 5",
+        "path": "/services/reparation-ipad/ipad-mini-5",
+        "prices": [
+          {
+            "label": "Écran & vitre",
+            "price": "169 CHF"
+          }
+        ]
+      },
+      {
+        "model": "iPad Pro 9.7″",
+        "path": "/services/reparation-ipad/ipad-pro-9-7",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "iPad Pro 10.5″",
+        "path": "/services/reparation-ipad/ipad-pro-10-5",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "iPad Pro 12.9″ 1ère Gén.",
+        "path": "/services/reparation-ipad/ipad-pro-12-9-1",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "iPad Pro 12.9″ 2ème Gén.",
+        "path": "/services/reparation-ipad/ipad-pro-12-9-2",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "Sur devis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mac",
+    "prefix": "/services/reparation-macbook",
+    "models": [
+      {
+        "model": "MacBook Pro 16\" 2021 et supérieur",
+        "path": "/services/reparation-macbook/macbook-pro-16-2021-plus",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "800 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "280 CHF"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Clavier",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Trackpad",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge / USB-C / MagSafe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Haut-parleurs",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Ventilateur / nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "MacBook Pro 16\" 2019",
+        "path": "/services/reparation-macbook/macbook-pro-16-2019",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "640 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "140 CHF"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Clavier",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Trackpad",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge / USB-C / MagSafe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Haut-parleurs",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Ventilateur / nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "MacBook Pro 15\" 2016 à 2019",
+        "path": "/services/reparation-macbook/macbook-pro-15-2016-2019",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "640 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "140 CHF"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Clavier",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Trackpad",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge / USB-C / MagSafe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Haut-parleurs",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Ventilateur / nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "MacBook Pro 14\"",
+        "path": "/services/reparation-macbook/macbook-pro-14",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "700 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "280 CHF"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Clavier",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Trackpad",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge / USB-C / MagSafe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Haut-parleurs",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Ventilateur / nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "MacBook Pro 13\" 2016 à 2019",
+        "path": "/services/reparation-macbook/macbook-pro-13-2016-2019",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "570 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "140 CHF"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Clavier",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Trackpad",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge / USB-C / MagSafe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Haut-parleurs",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Ventilateur / nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "MacBook Pro 13\" 2020 à 2022",
+        "path": "/services/reparation-macbook/macbook-pro-13-2020-2022",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "570 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "280 CHF"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Clavier",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Trackpad",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge / USB-C / MagSafe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Haut-parleurs",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Ventilateur / nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "MacBook Air 15\"",
+        "path": "/services/reparation-macbook/macbook-air-15",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "570 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "210 CHF"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Clavier",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Trackpad",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge / USB-C / MagSafe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Haut-parleurs",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Ventilateur / nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "MacBook Air 13\" M2 ou supérieur",
+        "path": "/services/reparation-macbook/macbook-air-13-m2-plus",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "520 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "180 CHF"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Clavier",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Trackpad",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge / USB-C / MagSafe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Haut-parleurs",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Ventilateur / nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "MacBook Air 13\" 2015 à 2020",
+        "path": "/services/reparation-macbook/macbook-air-13-2015-2020",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "390 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Clavier",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Trackpad",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge / USB-C / MagSafe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Haut-parleurs",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Ventilateur / nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "MacBook Neo",
+        "path": "/services/reparation-macbook/macbook-neo",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "220 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "120 CHF"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Clavier",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Trackpad",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge / USB-C / MagSafe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Haut-parleurs",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Ventilateur / nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "MacBook 12\" 2016 ou 2017",
+        "path": "/services/reparation-macbook/macbook-12-2016-2017",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "460 CHF"
+          },
+          {
+            "label": "Batterie",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Clavier",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Trackpad",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Connecteur de charge / USB-C / MagSafe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Haut-parleurs",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Ventilateur / nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "iMac 27\" 5K",
+        "path": "/services/reparation-macbook/imac-27-5k",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "700 CHF"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "iMac 24.5\" 4.5K",
+        "path": "/services/reparation-macbook/imac-24-5-4-5k",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "590 CHF"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      },
+      {
+        "model": "iMac 21.5\" 4K",
+        "path": "/services/reparation-macbook/imac-21-5-4k",
+        "prices": [
+          {
+            "label": "Écran",
+            "price": "520 CHF"
+          },
+          {
+            "label": "Diagnostic",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Nettoyage interne",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Surchauffe",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Problème logiciel",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Récupération de données",
+            "price": "Sur devis"
+          },
+          {
+            "label": "Dégâts d'eau / oxydation",
+            "price": "Sur devis"
+          }
+        ]
+      }
+    ]
+  }
+]
