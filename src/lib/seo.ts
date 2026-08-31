@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 
 import type { StoreConfig } from '@/types/store'
 
-const DEFAULT_SITE_URL = 'http://localhost:3000'
+const DEFAULT_SITE_URL = 'https://labonnepioche.ch'
 
 function trimTrailingSlash(value: string) {
   return value.endsWith('/') ? value.slice(0, -1) : value
