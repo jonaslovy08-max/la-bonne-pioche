@@ -58,6 +58,9 @@ export default function ContactPage() {
               <br />
               Suisse
             </address>
+            <a className="lbp-contact-phone" href="tel:+41765894874">
+              +41 76 589 48 74
+            </a>
             <a className="lbp-contact-email" href="mailto:contact@labonnepioche.ch">
               contact@labonnepioche.ch
             </a>
